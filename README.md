@@ -28,7 +28,7 @@ Helps later on when the focus is on scaling, partitioning, load balancing and ca
 - How many new tweets? Number of tweet views? 
 - Number of timeline generations per second?
 - How much storage is needed?
-- What network bandwidth usage are we expecting?
+- What network bandwidth usage are we expecting? (Important in deciding how to manage traffic and balance load between servers. Add details later.)
 
 (3) **System interface definitions**
 

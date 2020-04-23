@@ -11,7 +11,7 @@ Design a Twitter Like Service
 
 (1) **Clarify requirements**
 
-Clarifying attributes and goals of a system allows us to focus just on designing those parts. 
+System design questions are open ended. In a limited time interview scnerio, clarifying attributes and goals of a system allows us to focus on just on designing those parts. 
 
 - Can users post tweets?
 - Should we also design and create the user’s timeline?

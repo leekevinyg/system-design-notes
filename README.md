@@ -1,6 +1,6 @@
 # Grokking The System Design Interview Notes
 
-Notes for the Educative course [Groking the System Design Interview](https://www.educative.io/track/scalability-system-design-for-developers)
+Notes for the Educative course [Grokking the System Design Interview](https://www.educative.io/track/scalability-system-design-for-developers)
 
 - <a href="#Framework">Framework</a>
 
